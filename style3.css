@@ -1,0 +1,122 @@
+body{
+  font-family: 'Nonito',sans-serif;
+  color: #384047;
+  background-color: #ccebff;
+}
+h1{
+	
+   background-color: #000066;
+   color:rgb(237, 229, 229) ;
+   padding: 10px 39px 12px 39px;
+   border: 1px solid #000066;
+   
+   width: 100%;
+   font-weight: bold;
+   font-size: 18px;
+   text-align: center;
+   font-style: normal;
+   border-radius: 5px;
+   width: 45%;
+   border-width: 1px 1px 3px;
+   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+   margin-bottom: 10px;
+	
+}
+/*form div {
+	max-width: 500px;
+	height: 340px;
+    margin: 80px auto;
+    padding: 40px 30px;
+    background:#d2e0f9;
+    border-radius: 8px;
+
+
+
+ }*/
+ fieldset{
+	margin-bottom: 50px;
+	border:none;
+	background: rgba(255,255,255,0.1);
+	margin-top: 30px;
+
+}
+
+
+ input[type="file"],
+ /*input[type="submit"],*/
+ 
+ select {
+ 	background: rgba(255,255,255,0.1);
+ 	border:none;
+ 	font-size: 16px;
+ 	height: auto;
+ 	margin: 2px;
+ 	outline: 0;
+ 	padding: 12px;
+ 	width: 50%;
+ 	background-color: #e8eeef;
+ 	color: black;
+ 	box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+ 	margin-bottom: 30px;
+ 	cursor: pointer;
+ }
+
+
+ textarea,
+ select {
+ 	background: rgba(255,255,255,0.1);
+ 	border:none;
+ 	font-size: 16px;
+ 	height: auto;
+ 	margin: 2px;
+ 	outline: 0;
+ 	padding: 12px;
+ 	width: 50%;
+ 	background-color: #e8eeef;
+ 	color: black;
+ 	box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+ 	margin-bottom: 30px;
+ 	cursor: text;
+ }
+
+ input[type="submit"],
+ /*input[type="submit"],*/
+ 
+ select {
+ 	background: rgb(73, 113, 159);
+ 	border:none;
+ 	font-size: 16px;
+ 	height: auto;
+ 	margin: 2px;
+ 	outline: 0;
+ 	padding: 12px;
+ 	width: 20%;
+ 	background-color: rgb(73, 113, 159);
+ 	color: rgb(50, 42, 42);
+ 	box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+ 	margin-bottom: 30px;
+ 	cursor: pointer;
+ 	font-weight: bolder;
+ 	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+
+ }
+ input[type="text"],
+ /*input[type="submit"],*/
+ 
+ select {
+  background: rgba(255,255,255,0.1);
+  border:none;
+  font-size: 16px;
+  height: auto;
+  margin: 2px;
+  outline: 0;
+  padding: 12px;
+  width: 50%;
+  background-color: #e8eeef;
+  color: black;
+  box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+  margin-bottom: 30px;
+  cursor: text;
+
+ }
+ 
